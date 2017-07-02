@@ -1,3 +1,1 @@
-<details>
-  <h1>鬼</h1>
-</details>
+<details>鬼</details>
