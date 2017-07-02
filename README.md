@@ -1,4 +1,4 @@
 <details>
-  <summary>(details)</summary>
+  <summary>\<details\></summary>
   :japanese_ogre:
 </details>
