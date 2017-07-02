@@ -1,3 +1,3 @@
 <details>
-  :japanese_ogre:
+  <h1>鬼</h1>
 </details>
